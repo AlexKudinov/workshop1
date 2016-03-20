@@ -1,0 +1,9 @@
+﻿6d2b006b-7885-4789-b3b5-b4de66f79e83-->und\6d2b006b-7885-4789-b3b5-b4de66f79e83
+922fb855-6b5f-4019-8913-5051dcdd362c-->und\922fb855-6b5f-4019-8913-5051dcdd362c
+922fb855-6b5f-4019-8913-5051dcdd362c.0-->Form\Форма\Форма.txt
+922fb855-6b5f-4019-8913-5051dcdd362c.0-->und\922fb855-6b5f-4019-8913-5051dcdd362c.0
+922fb855-6b5f-4019-8913-5051dcdd362c.0-->und\922fb855-6b5f-4019-8913-5051dcdd362c.0
+copyinfo-->und\copyinfo
+root-->und\root
+version-->und\version
+versions-->und\versions
